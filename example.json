@@ -1,0 +1,11 @@
+{
+  "title": "Website accessibility audit",
+  "client": "Northstar Studio",
+  "provider": "RNGBubba Consulting",
+  "date": "2026-09-20",
+  "summary": "Review the public website and provide a prioritized remediation brief.",
+  "deliverables": ["Audit brief in PDF", "Prioritized issue register"],
+  "milestones": [["Kickoff", "2026-09-22"], ["Delivery", "2026-10-02"]],
+  "assumptions": ["Client supplies a staging URL and one point of contact."],
+  "fee": "USD 1,200 fixed fee"
+}
