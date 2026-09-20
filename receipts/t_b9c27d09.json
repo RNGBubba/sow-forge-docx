@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "ticket_id": "t_b9c27d09",
+  "code_sha": "d31549e999bf8c96b3abe98dd74450aeb3dc2dbe",
+  "command": "python -m pytest -q",
+  "exit_code": 0,
+  "artifact": {
+    "path": "output/statement-of-work.docx",
+    "sha256": "afde867254f1616599c18c7adecea42863a586cd16aa428270a92dc5795b6055",
+    "bytes": 2541
+  },
+  "recorded_at": "2026-09-20T23:34:20+00:00"
+}
